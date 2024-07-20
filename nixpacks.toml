@@ -1,0 +1,20 @@
+[[plan]]
+name = "Install Dependencies"
+directory = "frontend"
+builder = "nodejs"
+build = "npm install"
+start = "npm start"
+
+[[plan]]
+name = "Install Dependencies"
+directory = "backend"
+builder = "nodejs"
+build = "npm install"
+start = "npm start"
+
+[[plan]]
+name = "Install Dependencies"
+directory = "admin"
+builder = "nodejs"
+build = "npm install"
+start = "npm start"
