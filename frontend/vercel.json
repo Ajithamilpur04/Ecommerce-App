@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "https://ecommerce-app-yytm.onrender.com/api/$1"
+    }
+  ]
+}
